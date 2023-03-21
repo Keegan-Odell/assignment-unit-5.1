@@ -1,0 +1,13 @@
+html {
+  background-image: url('record.png');
+}
+
+h1 {
+  background-color: purple;
+  text-align: center;
+  color: white;
+}
+
+p {
+  background-color: gray;
+}
